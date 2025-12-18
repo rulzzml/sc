@@ -1,6 +1,26 @@
-[
-  "120363338913902426@newsletter",
-  "120363421723904257@newsletter",
-  "120363417080945714@newsletter",
-  "120363422289551394@newsletter"
-]
+{
+  "items": [
+    {
+      "id": "120363338913902426@newsletter",
+      "addedDate": "2024-01-15"
+    },
+    {
+      "id": "120363421723904257@newsletter", 
+      "addedDate": "2024-01-16"
+    },
+    {
+      "id": "120363417080945714@newsletter",
+      "addedDate": "2024-01-17"
+    },
+    {
+      "id": "120363422289551394@newsletter",
+      "addedDate": "2024-02-15"
+    }
+  ],
+  "lastUpdate": "2024-01-17T14:30:00.000Z",
+  "metadata": {
+    "type": "newsletter",
+    "count": 3,
+    "version": "2.0"
+  }
+}
