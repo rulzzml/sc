@@ -11,12 +11,16 @@
     {
       "number": "6285133225751",
       "addedDate": "2026-01-31"
+    },
+    {
+      "number": "6287874746708",
+      "addedDate": "2026-02-01"
     }
   ],
-  "lastUpdate": "2026-01-31T14:03:19.960Z",
+  "lastUpdate": "2026-02-01T07:40:15.839Z",
   "metadata": {
     "type": "phone_numbers",
-    "count": 3,
+    "count": 4,
     "version": "2.0"
   }
 }
