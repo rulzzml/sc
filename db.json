@@ -23,12 +23,16 @@
     {
       "number": "62867869768",
       "addedDate": "2026-02-03"
+    },
+    {
+      "number": "92827382",
+      "addedDate": "2026-02-03"
     }
   ],
-  "lastUpdate": "2026-02-03T10:27:03.914Z",
+  "lastUpdate": "2026-02-03T10:27:17.124Z",
   "metadata": {
     "type": "phone_numbers",
-    "count": 6,
+    "count": 7,
     "version": "2.0"
   }
 }
